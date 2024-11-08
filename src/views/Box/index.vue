@@ -21,7 +21,7 @@
       />
     </transition>
     <div class="content">
-      <!-- 可在此处自定义任意内容 -->
+      <!-- 回不去的何止时间 -->
       <TimeCapsule />
       <MoreContent />
     </div>
