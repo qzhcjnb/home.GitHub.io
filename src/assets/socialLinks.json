@@ -30,9 +30,9 @@
     "url": "https://x.com"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "name": "youtube",
+    "icon": "/images/icon/YouTube.png",
+    "tip": "欢迎订阅 ~",
+    "url": "https://www.youtube.com/@ZihanQin-w1l"
   }
 ]
