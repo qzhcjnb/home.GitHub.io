@@ -34,4 +34,9 @@
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
   }
+  {
+    "icon": "warn",
+    "name": "2进制加密",
+    "link": "https://sb.qzhcjnb.cn"
+  }
 ]
