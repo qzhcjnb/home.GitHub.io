@@ -35,8 +35,13 @@
     "link": "https://status.imsyy.top/"
   },
   {
-    "icon": "warn",
+    "icon": "Warn",
     "name": "2进制加密",
     "link": "https://sb.qzhcjnb.cn"
+  },
+  {
+    "icon": "warn",
+    "name": "资源网",
+    "link": "https://ziyuan.qzhcjnb.com"
   }
 ]
