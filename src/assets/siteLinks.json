@@ -44,9 +44,18 @@
     "name": "资源网",
     "link": "https://ziyuan.qzhcjnb.com"
   },
-    {
+  {
     "icon": "warn",
     "name": "翻墙 by cf woker",
     "link": "https://qzhcjnb.cn"
+  },
+  {
+    “icon": "Search",
+    "name": "搜索",
+    "link": "https://kaifa.baidu.com"
+  },
+    "icon": "Train",
+    "name": "开往",
+    "link": "https://foreverblog.cn/go.html"
   }
 ]
